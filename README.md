@@ -28,5 +28,5 @@ ___
 * in terminal navigate to web folder and execute command `php -S localhost:8000` <br>
   <br>
 * login with Username: `admin`  Password: `12345`
-* use Postman or in web browser, to get API response add to domain name url `/site/workers?location={}`  where {} is replaced with construction site location <br>
+* to get API response add to domain name url `/site/workers?location={}`  where {} is replaced with construction site location <br>
 for example `/site/workers?location=skanstes 30`
